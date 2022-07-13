@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T19:18:26.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="k905n35PomSqm1zisK1-" version="16.6.6" type="github"><diagram id="RExHvIoGv_JOsZpz6IFg" name="Page-1">ddFNE4IgEAbgX8PdXMvuZnXp5KEzI5swg66DNFq/Ph0wZawTy7MvHwMMsnq4GN7KGwnULI7EwODE4ni3T9JxmOTlJN2Dg8oo4UMLFOqNHiOvTyWwC4KWSFvVhlhS02BpA+PGUB/GHqTDU1te4QaKkuut3pWw0mlyOK4aV1SV9EcDRP7mNZ/THjrJBfUrgpxBZoisq+ohQz293vwwbt35T/d7AYON/bFgLJa9x0nwRZB/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T19:35:51.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="F0hl3FDqstMYVTXj4xJ7" version="16.6.6" type="github">
+  <diagram id="RExHvIoGv_JOsZpz6IFg" name="Page-1">
+    <mxGraphModel dx="1547" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-1" value="Запрос" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-2" value="Coin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="140" height="270" as="geometry">
+            <mxRectangle x="570" y="220" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-3" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7GpQvnnmdtf3E4SprvcS-2">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-4" value="Источник" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7GpQvnnmdtf3E4SprvcS-2">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-5" value="Дата" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7GpQvnnmdtf3E4SprvcS-2">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-6" value="Название" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7GpQvnnmdtf3E4SprvcS-2">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-7" value="Тип монеты" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7GpQvnnmdtf3E4SprvcS-2">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-8" value="Монетный двор" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7GpQvnnmdtf3E4SprvcS-2">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-10" value="Цена продажи" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7GpQvnnmdtf3E4SprvcS-2">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-9" value="Цена покупки" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7GpQvnnmdtf3E4SprvcS-2">
+          <mxGeometry y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GpQvnnmdtf3E4SprvcS-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7GpQvnnmdtf3E4SprvcS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="300" as="sourcePoint" />
+            <mxPoint x="320" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
